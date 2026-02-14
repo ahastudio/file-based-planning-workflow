@@ -1,4 +1,4 @@
-# Feature Specification: 기능명 스펙
+# Feature Specification: 기능명
 
 <!--
 제품 요구사항을 정의하는 문서입니다.
