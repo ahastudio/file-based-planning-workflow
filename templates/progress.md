@@ -53,7 +53,8 @@
 
 ## Error Log
 
-<!-- 에러 요약 테이블. 상세 내용은 findings.md의 Issues Encountered에 기록합니다. -->
+<!-- 에러 요약 테이블. 상세 내용은 findings.md의 Issues Encountered에 기록합니다.
+     Attempt는 시도 횟수(숫자)입니다. -->
 
 | Timestamp  | Error            | Attempt | Resolution           |
 | ---------- | ---------------- | ------- | -------------------- |
