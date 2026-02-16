@@ -60,9 +60,10 @@ Scenario 2: **시나리오명**
 - SC-1: 성공 기준 설명
 - SC-2: 성공 기준 설명
 
-## OpenAPI Specification
+## OpenAPI Specification (optional)
 
-<!-- 반드시 OpenAPI 3.0 형식(YAML)으로만 정리합니다. -->
+<!-- API가 있는 경우에만 작성합니다. OpenAPI 3.0 형식(YAML)으로 정리합니다.
+     API가 없는 프로젝트에서는 이 섹션을 삭제하세요. -->
 
 ```yaml
 openapi: 3.0.3
