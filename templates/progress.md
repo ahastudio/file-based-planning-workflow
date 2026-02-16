@@ -53,7 +53,7 @@
 
 ## Error Log
 
-<!-- 모든 에러 기록. 빠르게 해결해도 남겨두세요. -->
+<!-- 에러 요약 테이블. 상세 내용은 findings.md의 Issues Encountered에 기록합니다. -->
 
 | Timestamp  | Error            | Attempt | Resolution           |
 | ---------- | ---------------- | ------- | -------------------- |
