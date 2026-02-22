@@ -29,3 +29,6 @@
 
 - [spec.md](spec.md): 요구사항 및 상세 스펙
 - [plan.md](plan.md): 기술 구현 계획
+- [tasks.md](tasks.md): 작업 계획 및 추적
+- [findings.md](findings.md): 기술적 발견사항 및 결정
+- [progress.md](progress.md): 세션별 작업 내역
